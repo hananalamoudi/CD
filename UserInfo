@@ -1,19 +1,22 @@
 import java.util.Scanner;
 
 public class UserInfo {
-	  public static void main(String[] args) {
-		  
-		    Scanner input = new Scanner (System.in);
-		    System.out.print("Enter your full name: ");
-		    String name = input.next();
-		  		  	  		  	   
-		    System.out.print("Enter your Email: ");
-		    String email = input.next();
-		    
-		    System.out.print("Enter your address:");
-		    String address = input.next();
-		    
-		    System.out.print("Enter date of birth:\n");
-		    int DOB = input.next();    
+	  public static void name {
+			      
 		    }
+	  public static void Email {
+	      
+	    }
+	  public static void DOB {
+	      
+	    }
+	  public static void Address {
+	      
+	    }
+	  public static void PhoneNum  {
+	      
+	    }
+	  private static void natinalID  {
+	      
+	    }
 		}
