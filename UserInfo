@@ -6,15 +6,14 @@ public class UserInfo {
 		    Scanner input = new Scanner (System.in);
 		    System.out.print("Enter your full name: ");
 		    String name = input.next();
-		  
-		    System.out.print("Enter date of birth:\n");
-		    String DOB = input.next();
-		  		  	   
+		  		  	  		  	   
 		    System.out.print("Enter your Email: ");
 		    String email = input.next();
 		    
 		    System.out.print("Enter your address:");
 		    String address = input.next();
-		      
+		    
+		    System.out.print("Enter date of birth:\n");
+		    int DOB = input.next();    
 		    }
 		}
