@@ -1,22 +1,29 @@
+  
 import java.util.Scanner;
 
 public class UserInfo {
-	  public static void name {
-			      
+	  public static void name (String fname, String sname) {
+		  
 		    }
-	  public static void Email {
+	  public static void Email (String mail) {
 	      
 	    }
-	  public static void DOB {
+	  class mail extends Email {
+		  
+	  }
+	  
+	  
+	  public static void DOB (int day,int month,int year) {
 	      
 	    }
-	  public static void Address {
+	  public static void Address (String homenum, String street, String zip) {
+		  
 	      
 	    }
-	  public static void PhoneNum  {
+	  public static void PhoneNum (int phone) {
 	      
 	    }
-	  private static void natinalID  {
+	  private static void natinalID (int num) {
 	      
 	    }
 		}
